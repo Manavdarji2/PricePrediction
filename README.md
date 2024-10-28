@@ -42,13 +42,3 @@ The goal of this project is to build a machine learning model capable of predict
 1. Prepare the dataset by collecting and preprocessing the data.
 2. Run the model training script to train the machine learning model.
 3. Evaluate the model performance using the evaluation metrics provided.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
-
-```
