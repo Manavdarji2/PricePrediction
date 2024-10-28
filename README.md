@@ -52,5 +52,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License.
 
 ```
-
-Replace `https://github.com/yourusername/price-prediction-mumbai.git` with the actual link to your repository if applicable. This README provides a structured outline for the project with installation instructions, usage steps, and contribution guidelines.
